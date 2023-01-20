@@ -12,6 +12,8 @@ Tested on the following configuration:
 - 4x GeForce GTX TITAN X
 
 ## How to run
+- Place RESCS files in /input
+
 ```
 # set environment in /disambiguation
 cd $project_path/disambiguation
